@@ -1,0 +1,15 @@
+.Fruits{
+    border: 2px solid blue;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 15px;
+
+}
+.Cars{
+    border: 2px solid blue;
+    color: white;
+    background-color: aqua;
+    text-align: center;
+    padding: 15px;
+}
